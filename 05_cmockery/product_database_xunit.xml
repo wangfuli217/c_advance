@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?><testsuite name="product_database" time="0.831" tests="3" failures="0" errors="0" ><testcase name="test_connect_to_product_database" time="0.012" ><system-out><![CDATA[[       OK ] test_connect_to_product_database
+]]></system-out></testcase><testcase name="test_connect_to_product_database_bad_url" time="0.000" ><system-out><![CDATA[[EXPCT FAIL] test_connect_to_product_database_bad_url
+]]></system-out></testcase><testcase name="test_connect_to_product_database_missing_parameter" time="0.000" ><system-out><![CDATA[[EXPCT FAIL] test_connect_to_product_database_missing_parameter
+]]></system-out></testcase></testsuite>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?><testsuite name="customer_database" time="0.577" tests="3" failures="0" errors="0" ><testcase name="test_connect_to_customer_database" time="0.011" ><system-out><![CDATA[[       OK ] test_connect_to_customer_database
+]]></system-out></testcase><testcase name="test_get_customer_id_by_name" time="0.005" ><system-out><![CDATA[[       OK ] test_get_customer_id_by_name
+]]></system-out></testcase><testcase name="test_fail_connect_to_customer_database" time="0.000" ><system-out><![CDATA[[EXPCT FAIL] test_fail_connect_to_customer_database
+]]></system-out></testcase></testsuite>

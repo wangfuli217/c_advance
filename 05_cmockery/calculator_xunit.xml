@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><testsuite name="calculator" time="2.929" tests="22" failures="0" errors="0" ><testcase name="test_add" time="0.008" ><system-out><![CDATA[[       OK ] test_add
+]]></system-out></testcase><testcase name="test_subtract" time="0.001" ><system-out><![CDATA[[       OK ] test_subtract
+]]></system-out></testcase><testcase name="test_multiply" time="0.001" ><system-out><![CDATA[[       OK ] test_multiply
+]]></system-out></testcase><testcase name="test_divide" time="0.002" ><system-out><![CDATA[[       OK ] test_divide
+]]></system-out></testcase><testcase name="test_divide_by_zero" time="0.053" ><system-out><![CDATA[Expected assertion b != 0 occurred
+[       OK ] test_divide_by_zero
+]]></system-out></testcase><testcase name="test_find_operator_function_by_string_null_functions" time="0.049" ><system-out><![CDATA[Expected assertion !number_of_operator_functions || operator_functions occurred
+[       OK ] test_find_operator_function_by_string_null_functions
+]]></system-out></testcase><testcase name="test_find_operator_function_by_string_null_string" time="0.049" ><system-out><![CDATA[Expected assertion operator_string != ((void *)0) occurred
+[       OK ] test_find_operator_function_by_string_null_string
+]]></system-out></testcase><testcase name="test_find_operator_function_by_string_valid_null_functions" time="0.001" ><system-out><![CDATA[[       OK ] test_find_operator_function_by_string_valid_null_functions
+]]></system-out></testcase><testcase name="test_find_operator_function_by_string_not_found" time="0.002" ><system-out><![CDATA[[       OK ] test_find_operator_function_by_string_not_found
+]]></system-out></testcase><testcase name="test_find_operator_function_by_string_found" time="0.001" ><system-out><![CDATA[[       OK ] test_find_operator_function_by_string_found
+]]></system-out></testcase><testcase name="test_perform_operation_null_args" time="0.049" ><system-out><![CDATA[Expected assertion !number_of_arguments || arguments occurred
+[       OK ] test_perform_operation_null_args
+]]></system-out></testcase><testcase name="test_perform_operation_null_operator_functions" time="0.051" ><system-out><![CDATA[Expected assertion !number_of_operator_functions || operator_functions occurred
+[       OK ] test_perform_operation_null_operator_functions
+]]></system-out></testcase><testcase name="test_perform_operation_null_number_of_intermediate_values" time="0.049" ><system-out><![CDATA[Expected assertion number_of_intermediate_values != ((void *)0) occurred
+[       OK ] test_perform_operation_null_number_of_intermediate_values
+]]></system-out></testcase><testcase name="test_perform_operation_null_intermediate_values" time="0.049" ><system-out><![CDATA[Expected assertion intermediate_values != ((void *)0) occurred
+[       OK ] test_perform_operation_null_intermediate_values
+]]></system-out></testcase><testcase name="test_perform_operation_no_arguments" time="0.001" ><system-out><![CDATA[[       OK ] test_perform_operation_no_arguments
+]]></system-out></testcase><testcase name="test_perform_operation_first_arg_not_integer" time="0.022" ><system-out><![CDATA[[       OK ] test_perform_operation_first_arg_not_integer
+]]></system-out></testcase><testcase name="test_perform_operation_unknown_operator" time="0.006" ><system-out><![CDATA[[       OK ] test_perform_operation_unknown_operator
+]]></system-out></testcase><testcase name="test_perform_operation_missing_argument" time="0.010" ><system-out><![CDATA[[       OK ] test_perform_operation_missing_argument
+]]></system-out></testcase><testcase name="test_perform_operation_no_integer_after_operator" time="0.005" ><system-out><![CDATA[[       OK ] test_perform_operation_no_integer_after_operator
+]]></system-out></testcase><testcase name="test_perform_operation" time="0.009" ><system-out><![CDATA[[       OK ] test_perform_operation
+]]></system-out></testcase><testcase name="test_example_main_no_args" time="0.001" ><system-out><![CDATA[[       OK ] test_example_main_no_args
+]]></system-out></testcase><testcase name="test_example_main" time="0.008" ><system-out><![CDATA[[       OK ] test_example_main
+]]></system-out></testcase></testsuite>

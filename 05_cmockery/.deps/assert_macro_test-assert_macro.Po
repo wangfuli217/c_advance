@@ -1,0 +1,39 @@
+assert_macro_test-assert_macro.o: src/example/assert_macro.c \
+ /usr/include/string.h \
+ /usr/local/lib/gcc/i686-pc-linux-gnu/4.8.2/include-fixed/features.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
+ /usr/local/lib/gcc/i686-pc-linux-gnu/4.8.2/include/stddef.h \
+ /usr/include/bits/string.h \
+ /usr/local/lib/gcc/i686-pc-linux-gnu/4.8.2/include-fixed/bits/string2.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/stdlib.h
+
+/usr/include/string.h:
+
+/usr/local/lib/gcc/i686-pc-linux-gnu/4.8.2/include-fixed/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-32.h:
+
+/usr/local/lib/gcc/i686-pc-linux-gnu/4.8.2/include/stddef.h:
+
+/usr/include/bits/string.h:
+
+/usr/local/lib/gcc/i686-pc-linux-gnu/4.8.2/include-fixed/bits/string2.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/stdlib.h:
