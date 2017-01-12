@@ -189,26 +189,5 @@ Makefile*
 # QtCtreator CMake
 CMakeLists.txt.user*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#Desktop.ini
+Desktop.ini
